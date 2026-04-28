@@ -1,4 +1,4 @@
-#  Calculador de Insumos - Pintura Residencial
+#  CalculadoraPintura4261213239
 
 Este projeto é um sistema desenvolvido em **Java** como parte das atividades de **Lógica de Programação**.  
 O objetivo é automatizar o cálculo de materiais para uma empresa de reformas, focando especificamente na metragem de paredes e consumo de tinta.
